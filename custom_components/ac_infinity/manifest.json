@@ -9,7 +9,7 @@
     }
   ],
   "codeowners": [
-    "@hunterjm"
+    "@twbarber"
   ],
   "config_flow": true,
   "dependencies": [
